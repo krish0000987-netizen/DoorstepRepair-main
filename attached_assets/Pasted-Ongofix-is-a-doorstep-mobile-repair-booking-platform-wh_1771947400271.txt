@@ -1,0 +1,568 @@
+Ongofix is a doorstep mobile repair booking platform where customers can:
+
+• Select device
+• Select problem
+• See price
+• Book technician
+• Track service
+
+Their main USP:
+
+• 90-minute doorstep repair
+• Genuine parts
+• 90-day warranty
+• Certified technicians
+• Transparent pricing
+
+👉 Your website should follow same system.
+
+✅ 2. FULL WEBSITE STRUCTURE
+⭐ 1. HOMEPAGE FEATURES
+4
+🔹 Hero Section
+
+• Big banner image
+• Tagline: “Doorstep Repair in 60 Minutes”
+• Book Now button
+• WhatsApp button
+
+Example Text:
+👉 “Fast & Trusted Doorstep Repair Service in Your City”
+
+🔹 Quick Booking Widget (Most Important)
+
+Customer selects:
+
+• Device type (Mobile, Laptop, AC, Bike etc.)
+• Brand
+• Model
+• Problem
+• Location
+• Date & Time
+
+👉 Shows estimated price.
+
+(This is main lead generator)
+
+🔹 Why Choose Us Section
+
+• Certified Technicians
+• Genuine Parts
+• Warranty
+• Fast Service
+• Transparent Pricing
+
+🔹 Services List
+
+Grid of services like:
+
+• Mobile Repair
+• Laptop Repair
+• AC Repair
+• Washing Machine Repair
+• Bike Repair
+• Lift Repair
+
+👉 Each service clickable.
+
+🔹 Cities We Serve
+
+Example:
+
+Surat
+Mumbai
+Delhi
+Bangalore
+
+🔹 Customer Reviews
+
+⭐ Google Reviews
+⭐ Video testimonials
+
+🔹 CTA Section
+
+“Book Technician Now”
+
+⭐ 2. SERVICE PAGE FEATURES
+
+Example: Mobile Repair Page
+
+4
+
+Each service page should have:
+
+• Service description
+• Problems list
+• Price range
+• Before / After images
+• FAQ
+• Book Now
+
+Example Problems:
+
+• Screen Replacement
+• Battery Replacement
+• Charging Port
+• Water Damage
+• Camera Repair
+
+(These are exactly Ongofix services )
+
+⭐ 3. BOOKING SYSTEM FEATURES
+
+Very Important ⚡
+
+Booking Flow:
+
+Choose service
+
+Choose device
+
+Choose issue
+
+Enter address
+
+Pay advance
+
+Confirmation
+
+Features:
+
+• OTP login
+• Google login
+• Online payment
+• COD option
+• Slot booking
+• Technician assignment
+
+⭐ 4. CUSTOMER DASHBOARD
+
+Customer can:
+
+• Track technician
+• Reschedule
+• Chat with support
+• Download invoice
+• Check warranty
+
+⭐ 5. ADMIN PANEL FEATURES
+
+Because you run marketing + lead gen business, this is very important.
+
+Admin should manage:
+
+• Bookings
+• Customers
+• Technicians
+• Pricing
+• Cities
+• Reviews
+• Coupons
+• Payments
+
+Plus:
+
+👉 Export leads to Excel
+👉 CRM integration
+
+⭐ 6. TECHNICIAN PANEL
+
+Technician can:
+
+• Accept job
+• Navigate to location
+• Update status
+• Upload repair photo
+• Mark complete
+
+⭐ 7. LEAD GENERATION FEATURES (FOR YOUR BUSINESS)
+
+Since you do Meta Ads + AI calling:
+
+Add:
+
+• Facebook Pixel
+• Google Ads tracking
+• WhatsApp chatbot
+• AI call booking
+• CRM auto sync
+
+Example CRM:
+
+Zoho CRM
+HubSpot
+GoHighLevel
+
+⭐ 8. SEO FEATURES
+
+Because you generate B2B leads:
+
+• City wise pages
+• Service wise pages
+• Blog articles
+• FAQ schema
+• Review schema
+
+Example pages:
+
+👉 Mobile Repair in Surat
+👉 Laptop Repair in Delhi
+
+This gives organic traffic.
+
+⭐ 9. TRUST BUILDING FEATURES
+
+• Warranty badge
+• Real photos
+• Google Reviews
+• Technician ID verification
+• Before / After videos
+
+Because Ongofix uses trust strategy
+
+⭐ 10. EXTRA FEATURES TO BE BETTER THAN ONGOFIX
+
+You should add:
+
+✔ Live technician tracking
+✔ Instant price calculator
+✔ Video call diagnosis
+✔ AI chatbot
+✔ Subscription AMC plans
+✔ Affiliate program
+✔ Franchise option (optional)
+
+Since you want EdTech:
+
+✔ Repair training courses
+✔ Technician certification
+
+⭐ 11. TECHNOLOGY STACK (Professional)
+
+Since you are BCA student 👨‍💻
+
+Frontend:
+👉 Next.js
+👉 Tailwind CSS
+
+Backend:
+👉 Node.js / Laravel
+
+Database:
+👉 MongoDB / MySQL
+
+Booking API:
+👉 Razorpay payment
+👉 Google Maps API
+
+Chatbot:
+👉 WhatsApp Cloud API
+
+Hosting:
+👉 Hostinger / AWS
+
+⭐ 12. DESIGN STYLE
+
+Theme like Ongofix:
+
+• White + Blue + Orange
+• Clean UI
+• Big icons
+• Simple booking
+
+Fonts:
+
+👉 Poppins
+👉 Inter
+
+⭐ 13. CONTENT YOU NEED
+
+Prepare:
+
+• Logo
+• Services list
+• Prices
+• City names
+• Technician photos
+• Testimonials
+
+Create a modern, premium, dark-blue futuristic website for a device repair service brand named:
+
+👉 Devices Doctor – Your Device Health Experts
+
+The website must look like:
+
+• Ongofix style booking system
+• Dark blue neon medical-tech theme (like poster image)
+• Lead-generation optimized
+• Mobile first
+• Fast loading
+• SEO optimized
+
+The goal is:
+
+👉 Generate leads
+👉 Auto WhatsApp booking
+👉 AI chatbot + AI calling
+👉 CRM integration
+
+(This is important because our agency Growth Nations provides digital marketing + automation services.)
+
+⭐ 2. DESIGN THEME
+
+Use theme exactly like poster:
+
+Color palette:
+• Dark navy blue #0A1A3F
+• Neon blue #00C2FF
+• Electric glow white #EAF7FF
+• Accent cyan #00FFE0
+
+Style:
+• Futuristic tech medical look
+• Neon glow icons
+• Device + stethoscope images
+• Glassmorphism cards
+• Smooth animations
+
+Fonts:
+• Heading → Poppins Bold
+• Body → Inter Regular
+
+Buttons:
+👉 Glow blue hover effect
+
+⭐ 3. HOMEPAGE STRUCTURE
+🔹 SECTION 1 – HERO
+
+Big background image of phone + stethoscope.
+
+Text:
+
+Devices Doctor
+Your Device Health Experts
+30 Minutes Doorstep Repair Service
+
+Buttons:
+👉 Book Repair Now
+👉 WhatsApp Booking
+👉 Call Now
+
+Add quick booking form:
+
+Select Device
+Select Brand
+Select Problem
+Enter Location
+Choose Time
+
+Show estimated price.
+
+🔹 SECTION 2 – OUR SPECIALITIES
+
+Icons with neon glow:
+
+• All Mobile Brands
+• Smart Watches
+• Laptops
+• Tablets & iPads
+
+Hover animation.
+
+🔹 SECTION 3 – SERVICES LIST
+
+Screen Replacement
+Battery Replacement
+Charging Issues
+Software Problems
+Water Damage Treatment
+Camera & Speaker Repair
+
+Each clickable → Service Page.
+
+🔹 SECTION 4 – WHY CHOOSE US
+
+• 30 Minutes Fast Service
+• Doorstep Repair
+• Professional Technicians
+• Genuine Parts
+• Affordable Price
+• Service Warranty
+
+Add trust badges.
+
+🔹 SECTION 5 – REAL REVIEWS
+
+Show Google Reviews slider.
+
+Add video testimonials.
+
+🔹 SECTION 6 – CITIES WE SERVE
+
+Example:
+
+Surat
+Delhi
+Mumbai
+Gorakhpur
+
+(Add dynamic city pages for SEO.)
+
+🔹 SECTION 7 – CTA
+
+“Call Now – 8169-701980”
+
+Add floating WhatsApp button.
+
+⭐ 4. SERVICE PAGE STRUCTURE
+
+Example: Mobile Repair Page
+
+Include:
+
+• Device images
+• Problems list
+• Price range
+• Warranty info
+• Before/After images
+• FAQ
+
+Add “Book Technician Now”.
+
+⭐ 5. BOOKING SYSTEM
+
+Create Ongofix-style booking:
+
+Steps:
+
+1 Select Device
+2 Select Problem
+3 Choose Time
+4 Enter Address
+5 Pay Advance
+
+Features:
+
+• OTP login
+• Google login
+• Razorpay payment
+• COD option
+• Technician assignment
+• SMS + WhatsApp confirmation
+
+⭐ 6. CUSTOMER DASHBOARD
+
+User can:
+
+• Track technician live
+• Chat with support
+• Download invoice
+• Check warranty
+• Rebook service
+
+⭐ 7. ADMIN PANEL
+
+Admin can manage:
+
+• Bookings
+• Customers
+• Technicians
+• Prices
+• Cities
+• Reviews
+• Coupons
+• Payments
+
+Export leads to Excel.
+
+Integrate CRM:
+
+👉 Zoho
+👉 HubSpot
+👉 GoHighLevel
+
+(Because Growth Nations runs lead generation campaigns.)
+
+⭐ 8. AI & AUTOMATION FEATURES
+
+Add:
+
+• WhatsApp chatbot
+• AI call booking
+• Auto reminder SMS
+• Missed call auto callback
+• Lead scoring
+
+(Add indirect AI mention like you asked before for Growth Nations clients.)
+
+⭐ 9. SEO FEATURES
+
+Create pages like:
+
+Mobile Repair in Surat
+Laptop Repair in Delhi
+
+Add:
+
+• Blog system
+• FAQ schema
+• Review schema
+• Meta tags auto
+
+⭐ 10. EXTRA FEATURES (BETTER THAN ONGOFIX)
+
+Add:
+
+✔ Video call diagnosis
+✔ AMC subscription plans
+✔ Technician training courses (EdTech idea you wanted)
+✔ Affiliate program
+✔ Referral rewards
+
+This helps scale business + franchise later.
+
+⭐ 11. TECHNOLOGY STACK
+
+Frontend:
+👉 Next.js + Tailwind
+
+Backend:
+👉 Node.js + Express
+
+Database:
+👉 MongoDB
+
+Payments:
+👉 Razorpay
+
+Maps:
+👉 Google Maps API
+
+Hosting:
+👉 AWS / Hostinger
+
+Analytics:
+👉 Google Analytics + Meta Pixel
+
+⭐ 12. IMAGES NEEDED
+
+Prepare:
+
+• Phone repair images
+• Laptop repair images
+• Technician photos
+• Before/after photos
+• Device + stethoscope hero image
+
+Use HD realistic images with blue neon theme.
+
+⭐ 13. CONTENT DETAILS
+
+Business Name: Devices Doctor
+Phone: 8169-701980
+Instagram: @devicedoctor1990
+
+Tagline options:
+
+👉 “We Repair Onsite Within 30 Minutes”
+👉 “Fast • Reliable • Trusted”
