@@ -11,7 +11,17 @@ import path from "path";
 import fs from "fs";
 
 const PgSession = connectPgSimple(session);
-const sessionPool = new pg.Pool({ connectionString: process.env.DATABASE_URL });
+let sessionPool: pg.Pool;
+
+function getSessionPool() {
+  if (!sessionPool) {
+    if (!process.env.DATABASE_URL) {
+      throw new Error("DATABASE_URL environment variable is not set for session pool");
+    }
+    sessionPool = new pg.Pool({ connectionString: process.env.DATABASE_URL });
+  }
+  return sessionPool;
+}
 
 const uploadDir = path.join(process.cwd(), "public", "uploads");
 if (!fs.existsSync(uploadDir)) {
@@ -57,7 +67,7 @@ export async function registerRoutes(
 
   // Ensure session table exists without relying on connect-pg-simple's table.sql file
   // (which is not available after bundling in production)
-  await sessionPool.query(`
+  await getSessionPool().query(`
     CREATE TABLE IF NOT EXISTS "session" (
       "sid" varchar NOT NULL,
       "sess" json NOT NULL,
@@ -70,7 +80,7 @@ export async function registerRoutes(
   app.use(
     session({
       store: new PgSession({
-        pool: sessionPool,
+        pool: getSessionPool(),
         createTableIfMissing: false,
       }),
       secret: process.env.SESSION_SECRET || "devices-doctor-admin-secret",

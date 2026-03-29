@@ -3,7 +3,7 @@ import { useLocation } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Lock, User } from "lucide-react";
-import { apiRequest } from "@/lib/queryClient";
+import { apiRequest, queryClient } from "@/lib/queryClient";
 import { useToast } from "@/hooks/use-toast";
 import logoPath from "@assets/WhatsApp_Image_2026-03-02_at_2.24.37_PM_1772459749185.jpeg";
 
@@ -19,6 +19,8 @@ export default function AdminLogin() {
     setLoading(true);
     try {
       await apiRequest("POST", "/api/admin/login", { username, password });
+      // Invalidate the auth query so the layout knows we are logged in
+      await queryClient.invalidateQueries({ queryKey: ["/api/admin/me"] });
       setLocation("/admin");
     } catch (err: any) {
       toast({ title: "Login Failed", description: "Invalid username or password", variant: "destructive" });
